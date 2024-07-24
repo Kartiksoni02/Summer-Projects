@@ -22,8 +22,8 @@ public:
     string description;
     string category;
     bool completed;
-    string dueDate; // TAKEN FROM SYSTEM TODAY();
-    string priority; // LOW MEDIUM
+    string dueDate; 
+    string priority; // LOW MEDIUM HIGH
 
     // Initialize a Task object
     Task(string description, string category, string priority, string dueDate) {
