@@ -3,7 +3,7 @@
 
 Projects done using C++ 💻
 
-🎲 Guess the Number Game
+🎲 **Guess the Number Game**
 An interactive C++ console game where players guess a random number.
 🎯 Choose difficulty levels: Easy, Medium, Hard
 ⏳ Limited attempts with helpful hints for each guess
@@ -11,9 +11,10 @@ An interactive C++ console game where players guess a random number.
 
 Enjoy fun gameplay with increasing difficulty and compete for the top spot!
 
+---
 
 
-✅ Karo: A To-Do Application
+✅ **Karo: A To-Do Application**
 Manage your daily tasks effortlessly!
 ✅ Add tasks with priority, category, and due date
 🔄 Undo task deletions anytime
@@ -23,10 +24,11 @@ Manage your daily tasks effortlessly!
 Stay organized and never miss a deadline! ⏰
 
 
+---
 
 
 
-💬 ChatBook: Social Media Networking Application
+💬 **ChatBook: Social Media Networking Application**
 A simple C++ social network simulating user profiles, friendships, and messaging.
 👥 Create users and manage friendships
 ✉️ Send and store messages between users
