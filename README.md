@@ -38,3 +38,5 @@ Stay organized and never miss a deadline! ⏰
 - 👨‍👩‍👧‍👦 Create social groups and add members
 
 This project models basic social networking features in a console application.
+
+---
